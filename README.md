@@ -1,5 +1,5 @@
 # app_vault
 
--Encryption and Decryption of Message
+-Encryption and Decryption
 
 -Passcode
